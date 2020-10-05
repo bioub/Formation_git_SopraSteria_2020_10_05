@@ -8,3 +8,5 @@ Memento des commandes vues pendant la formation
 * git status
 * git config
 * git add
+* git help
+* git commit
